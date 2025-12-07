@@ -1,4 +1,18 @@
-# Resneton NIH dataset results
+# DenseNet on NIH dataset results
+Final VAL loss: 0.562, Accuracy: 0.693
+
+
+                 precision     recall   f1-score    support
+
+     No Finding       0.72       0.63       0.67      46750
+    Any Finding       0.64       0.72       0.68      42946
+
+       accuracy                             0.69      89696
+      macro avg       0.62       0.60       0.56      89696
+   weighted avg       0.61       0.61       0.56      89696
+
+
+# ResNet on NIH dataset results
 Final VAL loss: 0.9085, acc@0.5: 0.644
 Best VAL threshold: 0.10 | F1: 0.693 | Acc: 0.601
 
