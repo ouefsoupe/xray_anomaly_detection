@@ -7,10 +7,9 @@ After downloading the dataset from kaggle, you should have a large file called a
 
 ### For DenseNet
 The DenseNet model is in the Jupyter Notebook named project.ipynb. In order for it to run, project.ipynb must be in a folder along with the unzipped archive folder. Do not put project.ipynb in archive or you will have to change the file path for many things.
-=======
+
 Dataset: https://www.kaggle.com/datasets/nih-chest-xrays/data/data
 
 
 ### For Resnet
 The Resnet model is in the Jupyter Notebook named resnetv2_NIH_dataset.ipynb. For this model just sequentially run the cells in this notebook. This notebook also includes the heatmaps, and subgroup evaluations and can download the NIH dataset for you.  
-=======
